@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on web development
-- 🌱 I’m currently learning php
-- 👯 I’m looking to collaborate on IT sector
+- 🌱 I’m interested in frontend development
+- 👯 I’m looking to collaborate in IT sector
 - 📫 How to reach me: shanukasupun25@gmail.com
 
 <!--
